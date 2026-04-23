@@ -120,9 +120,9 @@ npm run build
 
 ## Screenshots
 
-  <img src="screenshots/pic1.png" width="400" alt="Dashboard View" />
-  <img src="screenshots/pic2.png" width="400" alt="Proposal Listing" />
-  <img src="screenshots/pic4.png" width="400" alt="Create Proposal Form" />
+  <img src="screenshots/pic1.png" alt="Dashboard View" />
+  <img src="screenshots/pic2.png" alt="Proposal Listing" />
+  <img src="screenshots/pic4.png" alt="Create Proposal Form" />
 
 ## Testing
 
