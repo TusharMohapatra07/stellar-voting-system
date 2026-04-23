@@ -120,13 +120,9 @@ npm run build
 
 ## Screenshots
 
-<div align="center">
   <img src="screenshots/pic1.png" width="400" alt="Dashboard View" />
   <img src="screenshots/pic2.png" width="400" alt="Proposal Listing" />
-  <br />
-  <img src="screenshots/pic3.png" width="400" alt="Voting Interface" />
   <img src="screenshots/pic4.png" width="400" alt="Create Proposal Form" />
-</div>
 
 ## Testing
 
@@ -155,4 +151,3 @@ VITE_STELLAR_NETWORK=testnet
 VITE_STELLAR_RPC_URL=https://soroban-testnet.stellar.org
 VITE_CONTRACT_ID=<your_deployed_contract_id>
 ```
-
